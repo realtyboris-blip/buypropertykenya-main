@@ -1,0 +1,28 @@
+<?php
+// app/Providers/SendGridServiceProvider.php
+
+namespace App\Providers;
+
+use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Log;
+
+class SendGridServiceProvider extends ServiceProvider
+{
+    public function register(): void
+    {
+        //
+    }
+
+    public function boot(): void
+    {
+        // Verify SendGrid configuration
+        if (config('mail.default') === 'sendgrid') {
+            $apiKey = config('mail.mailers.sendgrid.api_key') ?? env('SENDGRID_API_KEY');
+            
+            if (!$apiKey) {
+                Log::warning('SendGrid API key not configured. Please set SENDGRID_API_KEY in your .env file.');
+            }
+        }
+    }
+}

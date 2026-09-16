@@ -1,0 +1,38 @@
+[90m= [39m[
+    [
+      [34m"[39m[34mquestion[39m[34m"[39m => [32m"[39m[32mWhat is the process of buying a property in Kenya?[39m[32m"[39m,
+      [34m"[39m[34manswer[39m[34m"[39m => [32m"[39m[32mThe process involves: 1) Property search, 2) Due diligence, 3) Offer and negotiation, 4) Sale agreement, 5) Transfer of title. It's recommended to work with a licensed real estate agent and lawyer.[39m[32m"[39m,
+      [34m"[39m[34mcategory[39m[34m"[39m => [32m"[39m[32mBuying[39m[32m"[39m,
+      [34m"[39m[34msort_order[39m[34m"[39m => [35m1[39m,
+    ],
+    [
+      [34m"[39m[34mquestion[39m[34m"[39m => [32m"[39m[32mWhat are the costs involved in buying a property?[39m[32m"[39m,
+      [34m"[39m[34manswer[39m[34m"[39m => [32m"[39m[32mCosts include: Stamp duty (2-4% of property value), legal fees (1-2%), valuation fees, agent commission (2-5%), and registration fees. Total costs typically range from 5-10% of the property value.[39m[32m"[39m,
+      [34m"[39m[34mcategory[39m[34m"[39m => [32m"[39m[32mCosts[39m[32m"[39m,
+      [34m"[39m[34msort_order[39m[34m"[39m => [35m2[39m,
+    ],
+    [
+      [34m"[39m[34mquestion[39m[34m"[39m => [32m"[39m[32mHow do I finance a property purchase?[39m[32m"[39m,
+      [34m"[39m[34manswer[39m[34m"[39m => [32m"[39m[32mYou can finance through: 1) Mortgage loans from banks, 2) Sacco loans, 3) Developer financing, 4) Personal savings, 5) Investment groups or chamas. Most banks offer up to 90% financing.[39m[32m"[39m,
+      [34m"[39m[34mcategory[39m[34m"[39m => [32m"[39m[32mFinancing[39m[32m"[39m,
+      [34m"[39m[34msort_order[39m[34m"[39m => [35m3[39m,
+    ],
+    [
+      [34m"[39m[34mquestion[39m[34m"[39m => [32m"[39m[32mWhat is the average property price in Nairobi?[39m[32m"[39m,
+      [34m"[39m[34manswer[39m[34m"[39m => [32m"[39m[32mPrices vary by location and property type. In Kilimani, apartments range from KSh 8M-25M. In Westlands, from KSh 10M-30M. In Kileleshwa, from KSh 12M-35M. Land prices vary significantly.[39m[32m"[39m,
+      [34m"[39m[34mcategory[39m[34m"[39m => [32m"[39m[32mPricing[39m[32m"[39m,
+      [34m"[39m[34msort_order[39m[34m"[39m => [35m4[39m,
+    ],
+    [
+      [34m"[39m[34mquestion[39m[34m"[39m => [32m"[39m[32mWhat documents do I need to buy a property?[39m[32m"[39m,
+      [34m"[39m[34manswer[39m[34m"[39m => [32m"[39m[32mRequired documents include: 1) National ID/Passport, 2) KRA PIN certificate, 3) Bank statements (for mortgage), 4) Employment/income proof, 5) Title deed search results, 6) Sale agreement, 7) Stamp duty payment receipt.[39m[32m"[39m,
+      [34m"[39m[34mcategory[39m[34m"[39m => [32m"[39m[32mDocumentation[39m[32m"[39m,
+      [34m"[39m[34msort_order[39m[34m"[39m => [35m5[39m,
+    ],
+    [
+      [34m"[39m[34mquestion[39m[34m"[39m => [32m"[39m[32mHow long does the property buying process take?[39m[32m"[39m,
+      [34m"[39m[34manswer[39m[34m"[39m => [32m"[39m[32mThe process typically takes 30-90 days from offer acceptance to completion. This includes due diligence (1-2 weeks), legal documentation (2-4 weeks), and registration (1-2 weeks).[39m[32m"[39m,
+      [34m"[39m[34mcategory[39m[34m"[39m => [32m"[39m[32mProcess[39m[32m"[39m,
+      [34m"[39m[34msort_order[39m[34m"[39m => [35m6[39m,
+    ],
+  ]
